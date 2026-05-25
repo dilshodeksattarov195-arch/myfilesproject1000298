@@ -1,0 +1,8 @@
+body { background: #39fd3b; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 51px; display: flex; }
+.block-metrics-0 { color: #54014b; font-size: 19px; margin-bottom: 5px; }
+.block-token-1 { color: #b0d3e5; font-size: 12px; margin-bottom: 5px; }
+.block-database-2 { color: #9084b7; font-size: 14px; margin-bottom: 5px; }
+.block-token-3 { color: #342010; font-size: 17px; margin-bottom: 5px; }
+.block-cache-4 { color: #649998; font-size: 16px; margin-bottom: 5px; }
+.block-cluster-5 { color: #e93acd; font-size: 12px; margin-bottom: 5px; }
